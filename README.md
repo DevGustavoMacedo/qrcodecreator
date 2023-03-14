@@ -4,4 +4,4 @@
 - Tech stack: ![React](https://img.shields.io/badge/React-ff8c00.svg?style=for-the-badge&logo=react&logoColor=white) ![MUI](https://img.shields.io/badge/Material.UI-ff8c00.svg?style=for-the-badge&logo=mui&logoColor=white)
 - **[Use it now](https://qrcodecreator.vercel.app)**
  
-![Page Layout](https://raw.githubusercontent.com/devgustavomacedo/devgustavomacedo/main/public/qrcodecreator.png)
+![Page Layout](https://raw.githubusercontent.com/devgustavomacedo/devgustavomacedo/main/public/qrcodecreator.webp)
